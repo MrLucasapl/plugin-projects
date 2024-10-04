@@ -5,7 +5,8 @@
   "description": "ESLint configuration",
   "main": "index.js",
   "repository": {
-    "url": "MrLucasapl/plugin-projects-config"
+    "type": "git",
+    "url": "git+https://github.com/MrLucasapl/plugin-projects-config.git"
   },
   "author": "Lucas Pereira",
   "license": "MIT",
