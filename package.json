@@ -1,5 +1,5 @@
 {
-  "name": "plugin-projects-config",
+  "name": "@plugin-projects-config",
   "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration",
