@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @MrLucasapl/plugin-projects-config
+npm i -D eslint plugin-projects-config
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@MrLucasapl/plugin-projects-config", 
+    "plugin-projects-config", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @MrLucasapl/plugin-projects-config
+npm i -D eslint plugin-projects-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@MrLucasapl/plugin-projects-config/react"
+  "extends": "plugin-projects-config/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @MrLucasapl/plugin-projects-config
+npm i -D eslint plugin-projects-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@MrLucasapl/plugin-projects-config/node"
+  "extends": "plugin-projects-config/node"
 }
 ```
